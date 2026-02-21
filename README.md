@@ -7,10 +7,14 @@ O objetivo foi desenvolver um pipeline completo de análise de dados, desde a ge
 ⸻
 
 🛠 Tecnologias Utilizadas
-	•	Python (pandas, numpy)
-	•	Excel (Power Query + análise exploratória)
-	•	Power BI (dashboard executivo)
-	•	GitHub (versionamento e documentação)
+	
+•	Python (pandas, numpy)
+
+•	Excel (Power Query + análise exploratória)
+	
+•	Power BI (dashboard executivo)
+	
+•	GitHub (versionamento e documentação)
 
 ⸻
 
