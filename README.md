@@ -15,7 +15,7 @@ O objetivo foi desenvolver um pipeline completo de análise de dados, desde a ge
 ⸻
 
 📂 Estrutura do Projeto
-	•	notebook/ → geração do dataset sintético
+	•	notebook/ → ![Veja Aqui]
 	•	data/ → ![Veja Aqui](Dataset_Telecom.xlsx)
 	•	dashboard_powerbi.pbix → visualização final
 	•	README.md → documentação do projeto
