@@ -24,4 +24,6 @@ O objetivo foi desenvolver um pipeline completo de análise de dados, desde a ge
 	
 •   View Dataset → [Dataset View/ ↗](https://github.com/JottaMarcos/conectarfiber/blob/main/View_Dataset_Excel.png)
                    [Dataset View/ ↗](https://github.com/JottaMarcos/conectarfiber/blob/main/View_Analise_Exploratoria.png)
+
+•	Projeto Power BI → [Dataset View/ ↗](https://github.com/JottaMarcos/conectarfiber/blob/main/Telecom_Analytics.pbix)
 	
