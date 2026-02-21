@@ -4,7 +4,7 @@ Este projeto simula um cenário real de operações no setor de telecom, com 180
 
 O objetivo foi desenvolver um pipeline completo de análise de dados, desde a geração da base até a construção de um dashboard executivo.
 
-⸻
+![View Dashboard](TELECOM_DASHBOARD.png)
 
 🛠 Tecnologias Utilizadas
 	
