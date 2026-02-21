@@ -15,7 +15,7 @@ O objetivo foi desenvolver um pipeline completo de análise de dados, desde a ge
 ⸻
 
 📂 Estrutura do Projeto
-	•	notebook/ → ![Veja Aqui]
+	•	notebook/ → ![Veja Aqui](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=6CjO3hJWLRsg&line=2&uniqifier=1)
 	•	data/ → ![Veja Aqui](Dataset_Telecom.xlsx)
 	•	dashboard_powerbi.pbix → visualização final
 	•	README.md → documentação do projeto
