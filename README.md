@@ -22,7 +22,7 @@ O objetivo foi desenvolver um pipeline completo de análise de dados, desde a ge
 	
 •	notebook/ → ![Veja Aqui](Import_Dataset.ipynb)
 	
-•  [Dataset View/ ↗](https://github.com/JottaMarcos/conectarfiber/blob/main/View_Dataset_Excel.png))
+•   View Dataset → [Dataset View/ ↗](https://github.com/JottaMarcos/conectarfiber/blob/main/View_Dataset_Excel.png))
 	
 •	dashboard_powerbi.pbix → visualização final
 	
