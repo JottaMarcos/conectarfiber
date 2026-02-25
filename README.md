@@ -1,5 +1,7 @@
 📊 Projeto – Análise Operacional | Telecom
 
+![View Dashboard](Dashboard_telecom.png)
+
 🚀 Otimização de Margem e Eficiência Operacional em Telecom: De Dados Brutos a Insights Executivos.
 
 🧠 Insights Extraídos da Análise:
